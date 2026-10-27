@@ -1,1 +1,1 @@
-[preview]([https://yazidkandi.github.io/Etch-a-sketch/])
+[preview](https://yazidkandi.github.io/Etch-a-sketch/)
